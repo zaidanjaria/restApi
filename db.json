@@ -1,4 +1,24 @@
 {
+  "systems": [
+    {
+      "id": 1,
+      "title": "Magento",
+      "status": true,
+      "description": "ABCD"
+    },
+    {
+      "id": 2,
+      "title": "Shopify",
+      "status": false,
+      "description": "ABCD"
+    },
+    {
+      "id": 3,
+      "title": "Amazon",
+      "status": true,
+      "description": "ABCD"
+    }
+  ],
   "posts": [
     {
       "id": 1,
